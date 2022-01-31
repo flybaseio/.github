@@ -5,7 +5,7 @@
 
 Flybase is a Realtime App Platform. Build realtime mobile and web apps in minutes with our handy API
 
-[Home](https://flybase.io) | [Blog](https://flybase.io/blog) | [Docs](https://flybase.io/docs)
+[Home](https://flybase.io?utm_source=readme&utm_medium=readme-file&utm_id=github) | [Blog](https://flybase.io/blog?utm_source=readme&utm_medium=readme-file&utm_id=github) | [Docs](https://flybase.io/docs?utm_source=readme&utm_medium=readme-file&utm_id=github)
 
 <details>
   <summary><u><b> Latest Blog posts </u></b></summary>  
@@ -26,7 +26,7 @@ Flybase is a Realtime App Platform. Build realtime mobile and web apps in minute
 </details> 
 
 <p align="center">
-  <a href="https://flybase.io" target="_blank">
+  <a href="https://flybase.io?utm_source=readme&utm_medium=readme-file&utm_id=github" target="_blank">
       <img width="100px" src="https://flybase.io/static/images/lulu.png" alt="Flybase" />
   </a>
   <br />
