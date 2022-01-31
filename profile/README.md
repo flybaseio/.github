@@ -9,6 +9,7 @@ Flybase is a Realtime App Platform. Build realtime mobile and web apps in minute
 
 <details>
   <summary><u><b> Latest Blog posts </u></b></summary>  
+
 <!-- BLOG-POST-LIST:START -->
 - [How to use n8n for your workflows](https://flybase.io/blog/how-to-use-n8n-for-your-workflows)
 - [Top books every Customer Success Manager should read](https://flybase.io/blog/top-books-every-customer-success-manager-should-read)
@@ -21,6 +22,7 @@ Flybase is a Realtime App Platform. Build realtime mobile and web apps in minute
 - [The Bezos way: sleep, puttering, and three high-quality decisions a day](https://flybase.io/blog/the-bezos-way-sleep-puttering-and-three-high-quality-decisions-a-day)
 - [Quote of the day: Ends and Means](https://flybase.io/blog/quote-of-the-day-ends-and-means)
 <!-- BLOG-POST-LIST:END -->
+
 </details> 
 
 <p align="center">
